@@ -1,7 +1,7 @@
 # EjercicioMarioNisaErnesto
 # Cambio 3 por problemas técnico de aprendizaje
 
-Mario Escudero Izquierdo
+Mario Escudero Izquierdo //3.0.6 BUGFIX
 
 Ernesto Medrano Cabezón  //3.0.3 ModificadoNuevo //3.0.4 OtraMas
 
